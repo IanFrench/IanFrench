@@ -1,7 +1,6 @@
 ### Hi there 👋 😄
 ### My name is Ian French and I am a Mechanical Engineer. I have also done a fair amount of Project Management throughout my career.
-### I have now added coding to my list of skills. In particular I am able to write code in Swift and Python. My goal is to merge all of these skills and move into a 
-### management level position directing, among other resources, software developers. 
+### I have now added coding to my list of skills. In particular I am able to write code in Swift and Python. My goal is to merge all of these skills and move into a  management level position directing, among other resources, software developers.  
 
 <!--
 **IanFrench/IanFrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
