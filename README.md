@@ -1,6 +1,6 @@
 ### Hi there 👋 😄
 ### My name is Ian French and I am an Engineer. I have also done a fair amount of Project Management throughout my career.
-### I have now added coding to my list of skills. In particular I am able to write code in Swift and Python and I have a basic understanding of SQL. My goal is to merge all of these skills and get into a position that will allow me to explore the world of software development.   
+### I have now added coding to my list of skills. In particular I am able to write code in Swift and Python and I have a basic understanding of SQL. I am currently enrolled in a UX design bootcamp through BrainStation and will earn a dimploma through them by mid-April.  My goal is to merge all of these skills and get into a position that will allow me to explore the world of User Experience as it relates to software design and in particular mobile applications.  
 
 <!--
 **IanFrench/IanFrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
